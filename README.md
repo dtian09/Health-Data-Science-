@@ -125,11 +125,3 @@ This repository supports research in:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-This repository represents ongoing health data science research. For collaboration or questions, please refer to the documentation within individual project folders.
-
----
-
-*Repository maintained for health data science research and analysis*
