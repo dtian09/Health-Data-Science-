@@ -1,4 +1,4 @@
-# Health Data Science Repository
+# Health Data Science R Repository
 
 This repository contains a collection of R scripts and analyses for various health data science projects, focusing on genomics, statistical hypothesis testing, predictive modeling, and population health behavior analysis.
 
